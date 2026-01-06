@@ -1,0 +1,4 @@
+SELECT *
+FROM employee1
+ORDER BY salary DESC LIMIT 3;
+
